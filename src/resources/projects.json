@@ -1,0 +1,51 @@
+{
+    "projects": [
+        {
+            "title": "Spotify Playlist Exporter",
+            "description": "A Python script to export all playlists from a Spotify account to a JSON file.",
+            "tags": [
+                "python",
+                "spotify",
+                "REST API"
+            ],
+            "link": "https://github.com/cathiemaster/spotify-exporter"
+        },
+        {
+            "title": "WIP - Spotify Music Analysis",
+            "description": "An application using the Spotify API to analyze listening trends for a Spotify user.",
+            "tags": [
+                "python",
+                "spotify",
+                "REST API",
+                "SQL"
+            ],
+            "link": "https://github.com/cathiemaster/spotify-music-analysis"
+        },
+        {
+            "title": "NYT Best Books Export",
+            "description": "",
+            "tags": [
+                "python",
+                "REST API",
+                "HTML parser",
+                "Google Books"
+            ],
+            "link": "https://github.com/cathiemaster/nyt-best-books"
+        },
+        {
+            "title": "NYT Best Books Update to Notion",
+            "description": "",
+            "tags": [
+                "python",
+                "REST API",
+                "Notion"
+            ],
+            "link": "https://github.com/cathiemaster/nyt-notion-update"
+        },
+        {
+            "title": "Books Unbound TBR to Notion",
+            "description": "",
+            "link": "https://github.com/cathiemaster/books-unbound-update"
+        }
+    ]
+}
